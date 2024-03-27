@@ -18,10 +18,10 @@
 
     width: 2px;
 
-    left: 50%;
+    left: auto;
 
     background-color: violet ;
-
+    
 
 }
 
@@ -30,9 +30,10 @@
 
     position: relative;
 
-    margin: 0 0 0 -100px;
+    margin:  0 0 0 100px;
 
     width: 60%;
+    
 
 }
 
